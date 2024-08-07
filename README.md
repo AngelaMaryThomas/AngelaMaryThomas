@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> I'm Angela Mary Thomas</h1>
-     I am currently pursuing B.Tech Degree in Computer Science Engineering in Saintgits College of Engineering
+
+
+I am currently pursuing B.Tech Degree in Computer Science Engineering in Saintgits College of Engineering
+
 
  🔭 I’m currently working on **developing tech skills**
 
